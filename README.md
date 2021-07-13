@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! This page is currently under construction. Please check back in August 2021 for projects, research, and more. Thanks! 😄
 
 <!--
 **reliman/reliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
